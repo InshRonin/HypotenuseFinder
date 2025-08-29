@@ -13,6 +13,7 @@ A simple and interactive C# desktop application that helps users calculate the h
 - **Real-Time Validation**: If non-numeric or invalid input is entered, the app alerts the user to enter numeric values.
 - **Instant Calculation** of the hypotenuse `C` upon submission.
 - **Built with C# and Visual Studio** for smooth performance and easy customization.
+- **Currently available for Windows only**
 
 ---
 

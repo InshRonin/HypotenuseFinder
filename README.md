@@ -21,7 +21,7 @@ A simple and interactive C# desktop application that helps users calculate the h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hypotenuse-finder.git```
+   git clone https://github.com/inshronin/hypotenuse-finder.git```
 
 2.  Open the project in **Visual Studio**.
     

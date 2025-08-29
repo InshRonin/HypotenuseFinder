@@ -1,0 +1,7 @@
+D:\Projects\Publish\hypotenuseFinder.pdb
+D:\Projects\Publish\D3DCompiler_47_cor3.dll
+D:\Projects\Publish\PenImc_cor3.dll
+D:\Projects\Publish\PresentationNative_cor3.dll
+D:\Projects\Publish\vcruntime140_cor3.dll
+D:\Projects\Publish\wpfgfx_cor3.dll
+D:\Projects\Publish\hypotenuseFinder.exe

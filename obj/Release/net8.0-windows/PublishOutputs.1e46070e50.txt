@@ -1,0 +1,5 @@
+D:\Projects\C#\hypotenuseFinder\bin\Release\net8.0-windows\publish\hypotenuseFinder.exe
+D:\Projects\C#\hypotenuseFinder\bin\Release\net8.0-windows\publish\hypotenuseFinder.dll
+D:\Projects\C#\hypotenuseFinder\bin\Release\net8.0-windows\publish\hypotenuseFinder.deps.json
+D:\Projects\C#\hypotenuseFinder\bin\Release\net8.0-windows\publish\hypotenuseFinder.runtimeconfig.json
+D:\Projects\C#\hypotenuseFinder\bin\Release\net8.0-windows\publish\hypotenuseFinder.pdb
